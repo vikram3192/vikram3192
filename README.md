@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Vikram
-<img align="right" width="270" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="270" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 🎯 Aspiring  **Data Analyst**  with a passion for uncovering insights from data and creating impactful dashboards.
