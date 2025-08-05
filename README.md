@@ -20,10 +20,7 @@
 
 ### 🧰 IDEs & Tools I Use:
 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-<img height="40" src="https://img.icons8.com/color/50/000000/git.png" />
-<img height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-jupyter-notebook-big-data-flat-flat-juicy-fish.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /><img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png" /><img height="40" src="https://img.icons8.com/color/50/000000/git.png" /><img height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-jupyter-notebook-big-data-flat-flat-juicy-fish.png"/>
 
 ---
 
@@ -35,9 +32,7 @@
 
 ### 💻 Workspace Specs
 
-<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img height="30" src="https://img.shields.io/badge/Intel-i5_10th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce-GTX-green?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img height="30" src="https://img.shields.io/badge/Intel-i5_10th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce-GTX-green?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ---
 
