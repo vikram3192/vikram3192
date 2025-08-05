@@ -20,7 +20,7 @@
 
 ### 🧰 IDEs & Tools I Use:
 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /><img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png" /><img height="40" src="https://img.icons8.com/color/50/000000/git.png" /><img height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-jupyter-notebook-big-data-flat-flat-juicy-fish.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /><img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png" /><img height="40" src="https://img.icons8.com/color/50/000000/git.png" /><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
 
 ---
 
