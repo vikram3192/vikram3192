@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Vikram
-
-🎯 Aspiring **Data Analyst** with a passion for uncovering insights from data and creating impactful dashboards.
 <img align="right" width="370" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🎯 Aspiring **Data Analyst** with a passion for uncovering insights from data and creating impactful dashboards.
+
+
+
 - 📊 I’m looking for **opportunities** in the field of **Data Analytics**
 - 🌱 Currently learning: Advanced Excel, Tableau, and Data Visualization Techniques
 - 🛠️ Tools I use for data analysis: Python, MySQL, Power BI
