@@ -14,13 +14,7 @@
 
 ### 📌 I code in:
 
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="40" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+<img height="40" src="https://img.icons8.com/color/48/000000/python.png" /><img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="40" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" /><img height="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" /><img height="40" src="https://img.icons8.com/color/48/000000/power-bi.png" />
 
 ---
 
