@@ -30,9 +30,11 @@
 
 ---
 
+
+
 ### 💻 Workspace Specs
 
-<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img height="30" src="https://img.shields.io/badge/Intel-i5_10th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><img height="30" src="https://img.shields.io/badge/NVIDIA-GeForce-GTX-green?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Device-Lenovo-EB001F?style=for-the-badge&logo=lenovo&logoColor=white" /><img height="30" src="https://img.shields.io/badge/OS-Windows_10_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><img height="30" src="https://img.shields.io/badge/Processor-AMD_PRO_A4_4350B-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /><img height="30" src="https://img.shields.io/badge/RAM-4GB-9cf?style=for-the-badge&logo=ram&logoColor=white" /><img height="30" src="https://img.shields.io/badge/Graphics-AMD_Radeon_R4-FF6C00?style=for-the-badge&logo=amd&logoColor=white" /><img height="30" src="https://img.shields.io/badge/System-64_bit_x64-555?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 ---
 
