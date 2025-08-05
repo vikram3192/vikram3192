@@ -7,7 +7,7 @@
 - 📊 I’m looking for **opportunities** in the field of **Data Analytics**
 - 🌱 Currently learning: Advanced Excel, Tableau, and Data Visualization Techniques
 - 🛠️ Tools I use for data analysis: Python, MySQL, Power BI
-- 💡 I love combining analytical thinking 
+- 💡 I love combining analytical thinking with real-world problem solving. 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vikram-r-/)
 
 ---
