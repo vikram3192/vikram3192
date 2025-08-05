@@ -8,7 +8,7 @@
 - 🌱 Currently learning: Advanced Excel, Tableau, and Data Visualization Techniques
 - 🛠️ Tools I use for data analysis: Python, MySQL, Power BI
 - 💡 I love combining analytical thinking 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vikram-r-4b6075277/)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/vikram-r-/)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 🌐 Social Presence
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikram-r-4b6075277//) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikram-r-/) 
 
 ---
 
